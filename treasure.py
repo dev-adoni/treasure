@@ -31,7 +31,7 @@ if start == "yes":
             third = input("You arrive at the island unharmed. There is a house with 3 doors. One red, one yellow and one blue. Which colour do you choose? ")
             if third == "red":
                 print("GAME OVER")
-            elif third == "yeloow":
+            elif third == "yellow":
                 print("YOU WIN")
             elif third == "blue":
                 print("GAME OVER")
